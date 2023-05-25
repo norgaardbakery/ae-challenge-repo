@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: ae_challenge_data
+    database: ae-challenge-project
+    tables:
+      - name: invoice
+      - name: invoice_item
